@@ -86,7 +86,7 @@ Hey there! I'm **Palak Grewox**, a passionate Full Stack Developer specializing 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=palakgrewox&theme=onedark&column=7" alt="GitHub Trophies" />
+ <img src="https://github-profile-trophy.vercel.app/?username=palakgrewox&theme=onedark&no-bg=true&margin-w=15" />
 </div>
 
 ## 📫 Connect With Me
